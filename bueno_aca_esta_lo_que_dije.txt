@@ -1,0 +1,23 @@
+Primero que no wow no sabia que si no le 
+ponias la extension se creavan "archivos"
+
+en fin las preguntas del tp1 pero
+aca si me las estudie asi que a darleeeee
+
+¿Qué es el versionado de software?
+
+El versionado se software se utiliza para poder mejorar y optimizar el codigo, proyectos y aplicaciones. En ella, cada empresa
+crea sus propias reglas, que aunque este bien se busca crear reglas y pautas que sirvan como guia.
+
+¿Qué formas existen de nombrar las versiones?
+
+Las forma que existen de nombrar las versionas pueden ser por fecha como por parche, aunque tambien tenemos las versiones por numero
+como tambien por inestabilidad.
+
+¿Qué diferencia existe entre la versión y el estado de un software?
+
+Una de las diferencias que existe entre la version y el estado de un software es que en el estado de software tenemos
+la pre-alpha, alpha, beta y release candidate, que asi es como se identifican, y esa es la diferencia, la manera
+en la cual se identifican son distintos, ya que la de version, es por medio de numeros.
+
+
