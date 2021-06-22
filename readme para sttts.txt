@@ -1,4 +1,7 @@
 tenes que tener pyhon instalado
+
+si no tienen pip jodanse
+
 en el cmd pones (una a la vez):
 
 
