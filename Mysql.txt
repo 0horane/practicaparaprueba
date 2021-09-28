@@ -1,0 +1,6 @@
+SELECT [Campo] FROM [Tabla]
+INSERT INTO [Tabla] VALUE [Valor1, Valor2, Valor3]
+UPDATE [Tabla]
+DELETE [Campo] FROM [Tabla]
+
+SELECT * FROM Usuarios WHERE Edad >= 18 && Edad <= 27
